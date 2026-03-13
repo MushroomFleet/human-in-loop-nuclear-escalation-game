@@ -96,3 +96,23 @@ Human in the Loop is based on the [Project Kahn](https://github.com/MushroomFlee
 This game takes that simulation framework and adds a human decision-maker — you — at the critical approval point. The AI advises, but you decide.
 
 **Repository:** [https://github.com/MushroomFleet/human-in-loop-nuclear-escalation-game](https://github.com/MushroomFleet/human-in-loop-nuclear-escalation-game)
+
+## Citation
+
+### Academic Citation
+
+If you use this codebase in your research or project, please cite:
+
+```bibtex
+@software{human_in_the_loop,
+  title = {Human in the Loop: Nuclear Escalation Strategy Game},
+  author = {Drift Johnson},
+  year = {2025},
+  url = {https://github.com/MushroomFleet/human-in-loop-nuclear-escalation-game},
+  version = {1.0.0}
+}
+```
+
+### Donate:
+
+[![Ko-Fi](https://cdn.ko-fi.com/cdn/kofi3.png?v=3)](https://ko-fi.com/driftjohnson)
